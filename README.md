@@ -1,4 +1,7 @@
+from retropie tutorial at
+https://youtu.be/4nTuzIY0i3k
 
+Bridge pins 5 & 6 with a momentary button then follow the below guide
 
 VERSION 1.1 
 apt-get with the following command :
